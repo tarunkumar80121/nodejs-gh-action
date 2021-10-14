@@ -9,5 +9,5 @@ outputs:
   time:
     description: 'When I have greeted'
 runs:
-  using: 'node'
+  using: 'node12'
   main: 'index.js'
